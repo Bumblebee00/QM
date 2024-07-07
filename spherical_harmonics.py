@@ -1,3 +1,11 @@
+'''
+@author: Mattia Micheletta Merlin
+@date: 2024-05-20
+@description: This script allows to visualize the eigenstates of the angular momentum operator,
+commoly known as spherical harmonics, Y_lm(theta, phi). In particular, it displays the probability
+density function rho(theta) = |Y_lm(theta, phi)|^2, in cartesian, polar, and spherical coordinates.
+'''
+
 from scipy.special import legendre
 import numpy as np
 import math
