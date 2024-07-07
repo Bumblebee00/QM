@@ -1,7 +1,7 @@
 '''
 @author: Mattia Micheletta Merlin
 @date: 2024-07-07
-@description: This script allows to visualize the wave function of a electron in a hydrogen atom.
+@description: This script allows to visualize the eigen-functions of the hydrogen atom hamiltonian.
 Is displayed a slice of the wave function in the XY plane, at height z.
 Is displayed the imaginary and real part of the wave function, and the probability density.
 The user can change the quantum numbers n, l, and m using text boxes.
